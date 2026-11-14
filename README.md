@@ -2,6 +2,8 @@
 
 Evaluation code from my independent research on predicting healthcare costs when only a small share of people can be acted on.
 
+The research itself, with the results and what did not reach significance, is written up at [barryzehuizhang.com/research](https://barryzehuizhang.com/research/).
+
 A care team can reach only a fixed number of members. Most cost models are tuned for the average person. This work asks what a model should predict when capacity is fixed and only the top of the cost distribution matters, and how to tell whether it actually helps. This repository holds the second half: the code that decides whether a model helps.
 
 ## What the evaluation measures
